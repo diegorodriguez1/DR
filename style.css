@@ -3,11 +3,13 @@ h1 {
   font-family: Impact;
   color: white;
   }
-
+.toph2{
+  color:white;
+}
 h2{
   text-align: center;
   font-family: Didact Gothic;
-  color: white;
+  color: 7e3b5c;
 }
 
 nav {
@@ -65,7 +67,13 @@ footer{
   color: white;
 }
 
+.social-icons{
+  margin: 25px;
+  font-size: 2rem;
+  color: 7e3b5c;
 
+}
+  
 
 
 
