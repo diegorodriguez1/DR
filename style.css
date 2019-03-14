@@ -101,7 +101,10 @@ footer{
   font-size: 4rem;
   color: #7e3b5c;
   clear: both;
+}
 
+.social-icons a {
+text-decoration: none;
 }
   
 
