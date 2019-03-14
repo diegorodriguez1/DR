@@ -26,8 +26,8 @@ nav ul{
   display: flex;
   justify-content: space-between;
   list-style: none;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
  
 
