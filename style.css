@@ -57,7 +57,7 @@ main{
   background-color: rgba(204, 204, 204, .9);
   border-radius: 15px; 
   margin: 25px;
-  height: 600px;
+  background-size: cover;
 }
 
 p {
@@ -67,7 +67,7 @@ p {
 }
 
 aside {
-  display: flex;
+  margin: 0 auto;
   text-align: center;
   background-color: rgba(204, 204, 204, .9);
   border-radius: 15px; 
@@ -88,6 +88,7 @@ dd{
   text-align: center;
   font-family: Didact Gothic;
   color: 7e3b5c;
+  margin: 0;
 }
 
 footer{
