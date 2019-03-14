@@ -3,6 +3,7 @@ h1 {
   font-family: Impact;
   color: white;
   }
+
 .toph2{
   color:white;
 }
@@ -24,6 +25,8 @@ nav ul{
   display: flex;
   justify-content: space-between;
   list-style: none;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
  
 
