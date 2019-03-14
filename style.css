@@ -137,14 +137,14 @@ text-decoration: none;
   font-weight: bold;
 }
  .organization {
-   font-size: 16px;
+   font-size: 20px;
 }
 .location{
   color:#7e3b5c;
 }
 
 .position {
-  font-size: 16px;
+  font-size: 20px;
   font-style: italic;
 }
 .dates {
