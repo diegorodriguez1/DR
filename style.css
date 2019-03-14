@@ -121,6 +121,12 @@ footer{
   color: white;
   left-margin: 25px;
 }
+nav ul li a.active-page
+{
+  background-color:white;
+}
+
+}
 
 .social-icons{
   margin: 50px;
