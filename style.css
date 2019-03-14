@@ -10,6 +10,20 @@ h2{
   color: white;
 }
 
+nav {
+   background-color: #333;
+  overflow: hidden;
+}
+
+nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
 body{
   background-image: url(https://images.pexels.com/photos/1294671/pexels-photo-1294671.jpeg?cs=srgb&dl=alley-architecture-buildings-1294671.jpg&fm=jpg);  background-size: cover;
 }
@@ -25,6 +39,13 @@ p {
   font-family: Didact Gothic;
   margin: 25px;
 }
+
+aside {
+   background-color: rgba(204, 204, 204, .9)
+  border-radius: 15px; 
+  margin: 25px;
+}
+
 
 
 
