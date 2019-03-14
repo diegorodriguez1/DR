@@ -64,7 +64,7 @@ aside {
   background-color: rgba(204, 204, 204, .9);
   border-radius: 15px; 
   margin: 25px;
-  width: 50%
+  width: 50%;
   font-family: Didact Gothic;
 }
 
@@ -85,8 +85,8 @@ footer{
 }
 
 .social-icons{
-  margin: 25px;
-  font-size: 2rem;
+  margin: 50px;
+  font-size: 4rem;
   color: 7e3b5c;
 
 }
