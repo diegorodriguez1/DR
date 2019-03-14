@@ -1,5 +1,6 @@
 body{
-  background-image: url(https://images.pexels.com/photos/1294671/pexels-photo-1294671.jpeg?cs=srgb&dl=alley-architecture-buildings-1294671.jpg&fm=jpg);  background-size: cover;
+  background-image: url(https://images.pexels.com/photos/1294671/pexels-photo-1294671.jpeg?cs=srgb&dl=alley-architecture-buildings-1294671.jpg&fm=jpg);  
+  background-size: contain;
 }
 
 h1 {
