@@ -132,7 +132,26 @@ text-decoration: none;
   color: #7e3b5c;
   margin: 10px;
 }
- 
+.sectiontitle{
+  font-size: 2em;
+  font-weight: bold;
+}
+ .organization {
+   font-size: 16px;
+}
+.location{
+  color:#7e3b5c;
+}
+
+.position {
+  font-size: 16px;
+  font-style: italic;
+}
+.dates {
+  text-align: right;
+  color:#7e3b5c;
+}
+
 abbr [title] {
   text-decoration: none;
 }
