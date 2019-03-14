@@ -135,10 +135,11 @@ nav ul li a.active-page {
 
 
 .social-icons{
-  margin: 50px;
+  margin-right: 50px;
   font-size: 4rem;
   text-align: right;
   clear: both;
+  
 }
 
 .social-icons a {
