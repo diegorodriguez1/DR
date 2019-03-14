@@ -121,13 +121,13 @@ footer{
   color: white;
   left-margin: 25px;
 }
-nav ul li a.active-page
-{
+
+nav ul li a.active-page {
   background-color: rgba(204, 204, 204, .9);
   color: black;
 }
 
-}
+
 
 .social-icons{
   margin: 50px;
@@ -141,6 +141,7 @@ text-decoration: none;
   color: #7e3b5c;
   margin: 10px;
 }
+
 .sectiontitle{
   font-size: 2em;
   font-weight: bold;
