@@ -109,7 +109,10 @@ footer{
 text-decoration: none;
   color: #7e3b5c;
 }
-  
+ 
+abbr [title] {
+  text-decoration: none;
+}
 
 
 
