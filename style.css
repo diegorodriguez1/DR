@@ -1,6 +1,7 @@
 body{
   background-image: url(https://images.pexels.com/photos/1294671/pexels-photo-1294671.jpeg?cs=srgb&dl=alley-architecture-buildings-1294671.jpg&fm=jpg);  
   background-size: contain;
+  background-repeat: none;
 }
 
 h1 {
@@ -54,7 +55,7 @@ nav {
 
 nav ul{
   display: flex;
-  justify-content: start;
+  justify-content: space-evenly;
   list-style: none;
   padding-top: 15px;
   padding-bottom: 15px;
