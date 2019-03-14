@@ -139,6 +139,7 @@ nav ul li a.active-page {
   font-size: 4rem;
   text-align: right;
   clear: both;
+  display: inline-block;
   
 }
 
