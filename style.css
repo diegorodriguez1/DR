@@ -44,6 +44,7 @@ main{
   background-color: rgba(204, 204, 204, .9);
   border-radius: 15px; 
   margin: 25px;
+  height: 600px;
 }
 
 p {
