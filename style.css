@@ -17,6 +17,23 @@ h2{
   font-size: 2em;
 }
 
+h3{
+  margin-left:25px;
+  font-family: Didact Gothic;
+}
+
+h4{
+  margin-left:25px;
+  font-family: Didact Gothic;
+}
+
+ul{
+  margin-left:25px;
+  font-family: Didact Gothic;
+}
+
+  
+
 nav {
   text-align: center;
   background-color: #333;
@@ -89,7 +106,7 @@ dt{
 dd{
   text-align: center;
   font-family: Didact Gothic;
-  color: 7e3b5c;
+  color: #7e3b5c;
   margin: 0;
 }
 
