@@ -47,13 +47,13 @@ nav {
   text-align: center;
   background-color: #333;
   border-radius: 15px;
-  width: 60%; 
+  width: 46%; 
   margin: 0 auto;
 }
 
 nav ul{
   display: flex;
-  justify-content: space-between;
+  justify-content: start;
   list-style: none;
   padding-top: 15px;
   padding-bottom: 15px;
