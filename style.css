@@ -150,6 +150,7 @@ text-decoration: none;
 .dates {
   text-align: right;
   color:#7e3b5c;
+  margin-top: 0px;
 }
 
 abbr [title] {
