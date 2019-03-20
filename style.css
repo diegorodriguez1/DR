@@ -90,7 +90,7 @@ main{
   border-radius: 15px; 
   margin: 25px;
   background-size: cover;
-  display: inline-bloack;
+  display: inline-block;
 }
 
 p {
