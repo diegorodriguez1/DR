@@ -83,7 +83,9 @@ nav a.active {
   color: white;
 }
 
-
+.homebody{
+  display: inline-block;
+}
 
 main{
   background-color: rgba(204, 204, 204, .9);
